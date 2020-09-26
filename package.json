@@ -4,7 +4,7 @@
   "engines": {
     "node": "12.x"
   },
-  "description": "",
+  "description": "service bous",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon index.js",
